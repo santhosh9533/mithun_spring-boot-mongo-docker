@@ -3,8 +3,8 @@ package com.mt.springmongo;
 import java.io.Serializable;
 import java.util.Objects;
 
-//import org.springframework.data.annotation.Id;
-//import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
 
 /**
  * Represents a User which is mapped to <code>users</code> collection in MongoDB
